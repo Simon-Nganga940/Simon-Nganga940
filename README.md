@@ -10,7 +10,7 @@ I am currently learning Web development.
 4.Command line
 5.Linux
 6.Codespace.
-You can reach me through my email [Google](simonnganganjuguna940@gmail.com)
+You can reach me through my email (simonnganganjuguna940@gmail.com)
 my personal contact _0701 453960_
 I am really cooperative with my teammates and smart to work with.
 <!--
